@@ -1,7 +1,4 @@
 {
-  "User": {
-    "title": { "string": {} }
-  },
   "Article": {
     "title": { "string": {} },
     "content": { "string": {} },
